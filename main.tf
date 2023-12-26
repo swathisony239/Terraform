@@ -1,5 +1,5 @@
 module "redis" {
-  source  = "kumarvna/redis/azurerm"
+  source  = "swathisony239/redis/azurerm"
   version = "1.0.0"
 
   # By default, this module will create a resource group
